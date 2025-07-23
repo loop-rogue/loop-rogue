@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a passionate learner and dedicated builder who loves turning ideas into reality through code. Always curious, always creating, always growing.
 
 
@@ -56,6 +56,6 @@ impl Developer {
 }
 ```
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 artbotai.studio@gmail.com
